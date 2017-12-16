@@ -193,7 +193,6 @@ ul{
 	}
 	#sidebar{
 		width:35%;
-		background-color: #00F;
 		padding: 20px;
 	}
 	.portfolio-element{
@@ -210,7 +209,6 @@ ul{
 	}
 	#sidebar{
 		width:85%;
-		background-color: #0F0;
 		float:none;
 	}
 }
@@ -221,9 +219,6 @@ ul{
 		float:none;
 	}
 	#sidebar{
-		width:85%;
-		background-color: #F00;
-		float:none;
 		padding: 20px;
 	}
 	.portfolio-element{
