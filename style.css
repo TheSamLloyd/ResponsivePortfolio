@@ -1,0 +1,167 @@
+header{
+	background-color: #ffffff;
+	border-width: 0px;
+	border-bottom: 2px solid #ddd;
+	clear: both;
+	display: block;
+	width: 100%;
+	padding-left: 10%;
+	margin-bottom: 20px;
+	position: relative;
+	top: 0;
+	left: 0;
+}
+footer{
+	background-color: #666666;
+	clear: both;
+	border-top: 10px solid #4aaaa5;
+	text-align: center;
+	color: #fff;
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+	padding:20px;
+}
+body {
+	color: #777777;
+	background-image: url(assets/intersection.png);
+	font-family: 'Arial', 'Helvetica', 'Helvetica', sans-serif;
+}
+#main-content{
+	width: 606px;
+	border-color: #ddd;
+	border-width: 2px;
+	border-style: solid;
+	float:left;
+	background-color: #fff;
+	padding: 20px;
+}
+p {
+	line-height: 1.5em;
+}
+#sidebar{
+	width: 270px;
+	border:2px solid #ddd;
+	float:right;
+	background-color: #fff;
+	padding-bottom: 20px;
+	text-align: center;
+}
+.social-icon{
+	width: 70px;
+	height: 70px;
+	border: 3px #ddd solid;
+	text-decoration: none;
+}
+.portfolio-element{
+	display: inline-block;
+	width: 50%;
+	float:left;
+}
+.portfolio-title{
+	display: inline-block;
+	text-align: center;
+	background-color: #4aaaa5;
+	position: relative;
+	top: -60px;
+	width: 270px;
+	color: #fff;
+	padding: 10px 0px;
+}
+.portfolio-title:hover{
+	opacity: .5;
+}
+#profile-pic{
+	float:left;
+	width: 200px;
+	margin: 0px 20px 0px 0px;
+	border: 3px solid #4aaaa5;
+}
+h1{
+	font-family: 'Georgia', Times, 'Times New Roman', serif;
+	color: #fff;
+	padding: 0px;
+	font-size: 32px;
+}
+h3{
+	font-family: 'Georgia', Times, 'Times New Roman', serif;
+	color: #444;
+	padding: 0px;
+	font-size: 24px;
+	text-align: center;
+	padding-top: 10px;
+}
+#name{
+	background-color:#4aaaa5;
+	padding:20px;
+	color: #fff;
+	display: inline-block;
+}
+#nav{
+	display: inline-block;
+	float: right;
+	padding-top: 20px;
+	text-decoration: none;
+}
+#container{
+	width:960px;
+	margin-left: 10%;
+}
+#headercontent{
+	width:960px;
+}
+a{
+	color: inherit;
+	text-decoration: none;
+}
+a:visited{
+	color: #255552;
+}
+a:hover{
+	color: #4aaaa5;
+}
+.social-icon:hover{
+	border: 3px #4aaaa5 solid;
+}
+h2{
+	font-size: 28px;
+	color:#4aaaa5;
+	font-weight: bolder;
+	font-family: 'Georgia', Times, 'Times New Roman', serif;
+	padding-bottom: 5px;
+}
+hr{
+	margin-bottom: 20px;
+	clear: both;
+}
+label{
+	font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+	font-size: 20px;
+	color: #666;
+	padding-bottom: 10px;
+}
+input,textarea{
+	margin-top: 10px;
+	width:80%;
+	height: 1.618em;
+	padding: 3px;
+	margin-bottom: 20px;
+}
+#submitbutton{
+	width: auto;
+	background-color: #4aaaa5;
+	color: #fff;
+	font-size:20px;
+	padding: 10px 10px 10px 10px;
+	padding-bottom: 30px;
+	border: none;
+	text-align: center;
+}
+ul{
+	list-style:disc;
+	position: relative;
+	left: 50px;
+	line-height: 1.5em;
+	font-size: 13px;
+	font-style: italic;
+}
